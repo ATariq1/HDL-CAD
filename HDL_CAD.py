@@ -19,8 +19,7 @@ class inOut():
         elif self.size == 1 and (self.input == False):
             return ("output " + self.name )
         elif self.size > 0 and (self.input == False):
-            return ("output ["+str(self.size-1) + ":0] " + self.name )
-
+            return "output ["+str(self.size-1) + ":0] " + self.name
 
 
 class Module():
@@ -92,7 +91,7 @@ def main():
     And.generateTitle()
     # And.generateInputs()
     # And.generateOutputs()
-    #And.generateAssigns()
+    # And.generateAssigns()
     print("end module")
 
 if __name__ == '__main__':

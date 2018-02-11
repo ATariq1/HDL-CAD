@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/and.png</file>
+        <file>images/nand.png</file>
+        <file>images/nor.png</file>
+        <file>images/not.png</file>
+        <file>images/or.png</file>
+        <file>images/xnor.png</file>
+        <file>images/xor.png</file>
+    </qresource>
+</RCC>
