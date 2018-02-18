@@ -17,3 +17,14 @@ Future features:
   * allow custom modules to be created with custom inputs, outputs, sizes and port names.
 
   * support for all Verilog operators. 
+  
+TODO:
+  * connect python to QT interface
+  * create custom verilog input method
+  * add fields to logic gates
+  * add line connection system
+  * add bus sizing system
+  * add grid system
+  * add resizing system
+  * add custom modules
+ 
