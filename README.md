@@ -11,7 +11,7 @@ Currently supports:
   * simple manipulation of logic gates
   * generation of modules with any input size
 
-![logic gates](https://github.com/ATariq1/HDL-CAD/blob/master/images/Screenshot from 2018-02-21 00-02-10.png)
+![logic gates](https://github.com/ATariq1/HDL-CAD/blob/master/images/Screenshot%20from%202018-02-21%2000-02-10.png)
 
 Future features:
   * allow custom modules to be created with custom inputs, outputs, sizes and port names.
