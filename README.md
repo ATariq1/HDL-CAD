@@ -5,7 +5,7 @@ A powerful tool that generates Verilog HDL for digital circuits.
 
 Features a graphical user interface that allows for creating modules visually.
 
-Uses QT for user interface design, essentially C++, and obect oriented python for Verilog generation
+Uses QT for user interface design, essentially C++, and Obect Oriented Python for Verilog generation
 
 Currently supports:
   * simple manipulation of logic gates
